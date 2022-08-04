@@ -2,10 +2,28 @@ body {
 	background: #CCCCCC
 }
 
+#missao{
+	color:rgb(100,255,200);
+}
+
+#banner{
+
+ width: 100%;
+
+}
+
 p {
+	font-size:20px;
 	text-align: center;
 }
 
 em strong {
-	color: #FF0000;
+	color: darkred;
 }
+
+
+
+
+
+
+
